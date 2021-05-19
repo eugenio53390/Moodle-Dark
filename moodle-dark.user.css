@@ -4248,7 +4248,7 @@ url-prefix("https://moodle.") {
         padding: 8px
     }
     .wiki-toc-title {
-        color: #666;
+        color: #666666;
         font-size: 1.1em;
         font-variant: small-caps;
         text-align: center
@@ -9297,7 +9297,7 @@ url-prefix("https://moodle.") {
  */
     :root {
         --blue: #0f6fc5;
-        --indigo: #6610f2;
+        --indigo: #0f6fc5;
         --purple: #613d7c;
         --pink: #e83e8c;
         --red: #ca3120;
